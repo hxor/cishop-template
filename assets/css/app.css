@@ -18,3 +18,8 @@ body {
     min-height: 75rem;
     padding-top: 4.5rem;
 }
+
+.action-icon {
+    padding-left: 3px; 
+    padding-right: 3px;
+}
